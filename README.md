@@ -1,4 +1,4 @@
-Exploring the world of low-level computing. My goal is to work on building low latency and high throughput systems. Currently learning:
+Currently learning:
 
 - **Computer Architecture & Organisation**
 - **Operating Systems**
