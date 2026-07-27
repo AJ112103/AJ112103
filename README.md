@@ -11,7 +11,7 @@ Before that I owned the classification and policy engine at ArcOne: hybrid PII d
 ### Currently nerding out on
 
 - Making agent context **cited and scoped**, so you can point at the exact row that justified an answer
-- Whether MCP tool surfaces actually help agents. I [pre-registered a study](https://github.com/coralehr/fhir-mcp-eval) and measured it instead of guessing. They do, by 9.5 points, on 43% less payload
+- Whether MCP tool surfaces actually help agents. [Aanish](https://github.com/aanishs) built and ran the [pre-registered study](https://github.com/coralehr/fhir-mcp-eval) that settled it: yes, by 9.5 points, on 43% less payload. Watching a question get measured properly instead of vibed was a genuine treat
 - Hybrid retrieval that fuses vector and full-text search, then refuses to hand back anything you were never allowed to see
 - Row-level security that fails closed from the very first row, because the alternative is a genuinely bad week
 
