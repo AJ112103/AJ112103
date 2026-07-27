@@ -1,4 +1,4 @@
-Building AI-native software for healthcare. Mostly databases, agents, and the unglamorous plumbing that keeps both honest.
+Building AI-native software for healthcare. Mostly databases, agents, and the unglamorous plumbing.
 
 ### What I'm building
 
