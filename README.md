@@ -17,7 +17,7 @@ Before that I owned the classification and policy engine at ArcOne: hybrid PII d
 
 ### Usually working in
 
-`Python` `TypeScript` `PostgreSQL` `AWS` `FHIR` `MCP` `Kubernetes`
+`Python` `TypeScript` `PostgreSQL` `AWS` `FHIR` `MCP`
 
 I ship fast, break prod occasionally, and write the test that stops it happening twice.
 
